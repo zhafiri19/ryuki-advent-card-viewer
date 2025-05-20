@@ -1,0 +1,60 @@
+[
+  {
+    "riderId": "ryuki",
+    "name": "Kamen Rider Ryuki",
+    "forms": ["Base", "Survive"],
+    "contractMonster": "Dragredder",
+    "cards": [
+      {
+        "name": "Dragredder",
+        "type": "Advent",
+        "ap": 5000,
+        "image": "https://static.wikia.nocookie.net/kamenrider/images/f/f7/KRDCD-AttackRide_Ryuki_Advent_Rider_Card.png",
+        "description": "Memanggil Dragredder untuk menyerang musuh."
+      },
+      {
+        "name": "Strike Vent",
+        "type": "Strike Vent",
+        "ap": 2000,
+        "image": "https://i.imgur.com/nT72sFC.png",
+        "description": "Menggunakan kepala Dragredder untuk serangan pukulan kuat."
+      },
+      {
+        "name": "Final Vent",
+        "type": "Final Vent",
+        "ap": 6000,
+        "image": "https://i.imgur.com/xyz123.png",
+        "description": "Melakukan Dragon Rider Kick dengan bantuan Dragredder."
+      }
+    ]
+  },
+  {
+    "riderId": "knight",
+    "name": "Kamen Rider Knight",
+    "forms": ["Base", "Survive"],
+    "contractMonster": "Darkwing",
+    "cards": [
+      {
+        "name": "Darkwing",
+        "type": "Advent",
+        "ap": 5000,
+        "image": "https://i.imgur.com/abc456.png",
+        "description": "Memanggil Darkwing untuk menyerang musuh."
+      },
+      {
+        "name": "Sword Vent",
+        "type": "Sword Vent",
+        "ap": 2000,
+        "image": "https://i.imgur.com/def789.png",
+        "description": "Menggunakan pedang dari Darkwing untuk serangan tajam."
+      },
+      {
+        "name": "Final Vent",
+        "type": "Final Vent",
+        "ap": 6000,
+        "image": "https://i.imgur.com/ghi012.png",
+        "description": "Melakukan serangan akhir dengan bantuan Darkwing."
+      }
+    ]
+  }
+]
