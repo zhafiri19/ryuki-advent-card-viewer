@@ -26,7 +26,7 @@ function CardItem({ card }) {
         className="card summon-card text-center"
         onMouseEnter={handleMouseEnter}
       >
-        <audio ref={audioRef} src="/audio/videoplayback.weba" preload="auto" />
+        <audio ref={audioRef} src="./audio/videoplayback.weba" preload="auto" />
         <img
           src={card.image}
           className="card-img-top"

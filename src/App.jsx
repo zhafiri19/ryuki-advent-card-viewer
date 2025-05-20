@@ -8,7 +8,7 @@ function App() {
   const [cards, setCards] = useState([]);
 
 useEffect(() => {
-  fetch("/data/riders.json")
+  fetch("./data/riders.json")
     .then((res) => res.json())
     .then((data) => {
       setRiders(data);
